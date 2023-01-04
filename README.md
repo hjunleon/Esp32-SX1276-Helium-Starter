@@ -7,5 +7,5 @@ This repository is a starter code that should work with a regular esp32 devkit m
 - SX1276 module: https://www.aliexpress.com/item/32962551530.html?spm=a2g0o.productlist.main.45.5a721c61cxZzu9&algo_pvid=c3a2ec45-be19-49a8-aee4-8dfb42fe9987&algo_exp_id=c3a2ec45-be19-49a8-aee4-8dfb42fe9987-22&pdp_ext_f=%7B%22sku_id%22%3A%2267385338494%22%7D&pdp_npi=2%40dis%21SGD%216.04%215.74%21%21%210.48%21%21%4021021f7b16728171428264211d06d0%2167385338494%21sea&curPageLogUid=jgg6jAx1XjbZ
 
 ## Guide to using this software
-\<TO BE INSERTED>
+https://facestomperx.substack.com/p/esp32-and-sx1276-lora-wan-helium?sd=pf
 
